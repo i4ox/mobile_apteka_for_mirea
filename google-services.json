@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635739016633",
+    "project_id": "aptekaruformirea",
+    "storage_bucket": "aptekaruformirea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635739016633:android:06a22cc643d0f15406fa68",
+        "android_client_info": {
+          "package_name": "ru.artlkv.aptekaformirea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoC7uG5wVtKa5rzUed8UySJx1llEY9TuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
