@@ -39,7 +39,14 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics")
     //noinspection UseTomlInstead
     implementation("com.google.firebase:firebase-crashlytics")
+    implementation(libs.firebase.ui.auth)
+    //noinspection UseTomlInstead
+    implementation("com.google.firebase:firebase-auth")
+
     implementation(libs.firebase.database)
+
+    implementation(libs.rxandroid)
+    implementation(libs.rxjava)
 
 
     implementation(libs.appcompat)
